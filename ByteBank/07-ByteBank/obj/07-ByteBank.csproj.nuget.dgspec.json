@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anoyo\\Projetos\\CSharp-POO\\ByteBank\\05-ByteBank\\05-ByteBank.csproj": {}
+    "C:\\Users\\anoyo\\Projetos\\CSharp-POO\\ByteBank\\07-ByteBank\\07-ByteBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anoyo\\Projetos\\CSharp-POO\\ByteBank\\05-ByteBank\\05-ByteBank.csproj": {
+    "C:\\Users\\anoyo\\Projetos\\CSharp-POO\\ByteBank\\07-ByteBank\\07-ByteBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anoyo\\Projetos\\CSharp-POO\\ByteBank\\05-ByteBank\\05-ByteBank.csproj",
-        "projectName": "05-ByteBank",
-        "projectPath": "C:\\Users\\anoyo\\Projetos\\CSharp-POO\\ByteBank\\05-ByteBank\\05-ByteBank.csproj",
+        "projectUniqueName": "C:\\Users\\anoyo\\Projetos\\CSharp-POO\\ByteBank\\07-ByteBank\\07-ByteBank.csproj",
+        "projectName": "07-ByteBank",
+        "projectPath": "C:\\Users\\anoyo\\Projetos\\CSharp-POO\\ByteBank\\07-ByteBank\\07-ByteBank.csproj",
         "packagesPath": "C:\\Users\\anoyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anoyo\\Projetos\\CSharp-POO\\ByteBank\\05-ByteBank\\obj\\",
+        "outputPath": "C:\\Users\\anoyo\\Projetos\\CSharp-POO\\ByteBank\\07-ByteBank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
